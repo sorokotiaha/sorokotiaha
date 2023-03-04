@@ -18,7 +18,7 @@
 
 📫 Feel free to connect with me on LinkedIn or send me an email:
 
-<div>
+<div style="display: block">
   <a href="https://www.linkedin.com/in/oleksiisorokotiaha/" target="_blank" >
     <img align="left" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
@@ -27,7 +27,11 @@
   </a>
 </div>
 
-<hr />
+<div style="display: block">
+  <hr />
+</div>
+
+
 
 ### 🔥 My favorite technologies I love and use
 
