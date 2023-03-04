@@ -27,11 +27,8 @@
   </a>
 </div>
 
-<div style="display: block">
-  <hr />
-</div>
-
-
+<br/>
+<hr />
 
 ### 🔥 My favorite technologies I love and use
 
