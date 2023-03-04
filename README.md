@@ -18,16 +18,18 @@
 
 📫 Feel free to connect with me on LinkedIn or send me an email:
 
-<a href="https://www.linkedin.com/in/oleksiisorokotiaha/" target="_blank" >
-  <img align="left" alt="linkedin" height="18" width="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg">
-</a>
-<a href="mailto:oleksiisorokotiaha@gmail.com" target="_blank" >
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/oleksiisorokotiaha/" target="_blank" >
+    <img align="left" alt="linkedin" width="24px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href="mailto:oleksiisorokotiaha@gmail.com" target="_blank" >
+    <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
+</div>
 
 <hr />
 
-## ⚡ Technologies I love and use
+### 🔥 My favorite technologies I love and use
 
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
