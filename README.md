@@ -2,7 +2,7 @@
 
 <hr />
 
-👋 Greetings! I am a End Developer with a passion for building top-notch, adaptable, and user-friendly WEB applications using the latest technologies.
+👋 Greetings! I am a Front End Developer with a passion for building top-notch, adaptable, and user-friendly WEB applications using the latest technologies.
 
 🌎 I am proud to have gained valuable experience through various client-side development projects across several countries, including the USA, Sweden, Norway, Germany, and Israel within great international development teams.
 
