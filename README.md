@@ -6,7 +6,7 @@
 
 🌎 I am proud to have gained valuable experience through various client-side development projects across several countries, including the USA, Sweden, Norway, Germany, and Israel within great international development teams.
 
-😎 With over 8 years of commercial development expertise, including a specialization in ReactJS technology for 4+ years, I am dedicated to creating exceptional user experiences.
+😎 With over 8 years of commercial development expertise, including a specialization in ReactJS technology for 6 years, I am dedicated to creating exceptional user experiences.
 
 📖 I enjoy sharing my experiences and learning new things in WEB development. I'm always eager to collaborate with others and create amazing projects.
 
